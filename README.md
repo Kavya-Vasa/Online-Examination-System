@@ -18,12 +18,12 @@ username and password No: of questions, total time (in min),Option type. For sho
 Exam id.
 
 1. Aim and Objective of the project
-The aim of this project is to Provide a friendly, easy to use examination platform for
-students.
+<br>The aim of this project is to Provide a friendly, easy to use examination platform for
+students.<br>
 General objective: -
 General objective of our project is to change the current manual system into a
 computerized one. This project would be very useful for educational institutes where
-regular evaluation of students’ is required.
+regular evaluation of students’ is required.<br>
 Specific objective: -
 
 ● Online examination project assesses students by conducting online objective
