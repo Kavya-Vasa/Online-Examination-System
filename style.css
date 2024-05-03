@@ -1,0 +1,139 @@
+body{
+    font-family:Trebuchet MS;
+    font-size:15px;
+    line-height:1.6em;
+    background-color: powderblue;
+
+}
+
+h1{
+    color:crimson;
+    font-size:35px;
+}
+
+li{
+    list-style:none;
+    padding: 10px;
+}
+
+a{
+    text-decoration:none;
+}
+
+label{
+    display: inline-block;
+    width:180px;
+}
+
+input[type='text'] {
+    width:97%;
+    padding: 4px;
+    border-radius: 5px;
+    border: 1px #ccc solid;
+
+}
+
+
+input[type='number'] {
+    width:50px;
+    padding: 4px;
+    border-radius: 5px;
+    border: 1px #ccc solid;
+
+}
+
+.container{
+    width:60%;
+    margin: 0 auto;
+    overflow:auto;
+    font-size:large;
+}
+
+
+.info{
+font-size:18px;
+padding:10px;
+}
+
+header{
+    text-align: center;
+    background-color: powderblue;
+}
+
+footer{
+    padding-top: 5px;
+}
+
+main{
+    padding-top:10px;
+    padding-bottom:55px;
+
+}
+
+.button1{
+        background-color:white;
+        border: 10px;
+        color: crimson;
+        padding: 10px 16px;
+        text-align: center;
+        font-size: 16px;
+        font-weight:bold;
+        font-family:Yu Gothic UI;
+        margin: 8px 8px;  
+        display: inline-block;
+        text-decoration: none;
+        cursor: pointer;
+         width:150px;
+         top:40%;
+      }
+      
+      .button1{border-radius: 10px;}
+
+.button1:hover{background-color:gray};
+
+.current{
+    padding:10px;
+    background: powderblue;
+    border: crimson solid 1px;
+    margin: 20px 0 10px 0;
+}
+
+
+.choices{
+    margin-top: -2px; 
+    padding:5px;
+}
+
+hr{
+    text-align:left;
+    margin-left:0;
+    width:30%;
+
+}
+
+.button2{
+    background-color:mediumseagreen;
+    border: 10px;
+    color: white;
+    padding: 10px 16px;
+    text-align: center;
+    font-size: 16px;
+    font-weight:bold;
+    font-family:Yu Gothic UI;
+    margin: 8px 8px;  
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+     width:150px;
+     top:40%;
+  }
+  
+  .button2{border-radius: 10px;}
+
+
+  @media only screen and (max-width:960px){
+      .container{
+          width:80%;
+      }
+  }
+  
