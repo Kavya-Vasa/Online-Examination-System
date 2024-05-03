@@ -27,25 +27,39 @@ regular evaluation of students’ is required.
 Specific objective: -
 ● Online examination project assesses students by conducting online objective
 tests.
+
 ● Responses by the candidates will be checked automatically.
+
 ● It reduces time consumption.
+
 ● OES reduces paperwork.
+
 ● Questions can have multiple options, multiple answers or can be text answers.
+
 ● To allow the department to create tests and answers.
+
 ● The result will be shown after some time to the participating students.
+
 ● This project will enable educational institutes to conduct tests and have
 automated checking of answers based on the response by the candidates.
+
 ● It would enable educational institutes to perform a test quiz.
 
 3. Scope of the project
 ● Can be used anywhere any time as it is a web based application (user
-location doesn’t matter)
+location doesn’t matter).
+
 ● No restriction that examiner has to be has to be present when the
 candidate takes the test.
+
 ● Design to facilitate administrator and user.
+
 ● Online examination is designed for educational institutes like schools,
 colleges and private institutes to conduct logic test for their students or
 employees on a regular basis.
+
 ● The system handles all the operation and generates reports as soon as the test
 is finish.
+
+Important Note: - Make sure you have XAMPP on your PC to run the project. The report & the ppt contains detailed information about this project. The report contains screenshots of the project too. Put the .php files in the htdocs folder & import the .sql database on myphpadmin then only the project will work properly.
 
