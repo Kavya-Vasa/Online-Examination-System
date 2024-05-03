@@ -25,6 +25,7 @@ General objective of our project is to change the current manual system into a
 computerized one. This project would be very useful for educational institutes where
 regular evaluation of students’ is required.
 Specific objective: -
+
 ● Online examination project assesses students by conducting online objective
 tests.
 
@@ -45,7 +46,8 @@ automated checking of answers based on the response by the candidates.
 
 ● It would enable educational institutes to perform a test quiz.
 
-3. Scope of the project
+2. Scope of the project
+
 ● Can be used anywhere any time as it is a web based application (user
 location doesn’t matter).
 
